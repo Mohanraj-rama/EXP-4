@@ -52,10 +52,13 @@ Rectifier with filter
 
 WAVEFORM:
 HALF WAVE RECTIFIER:
-<img width="937" height="447" alt="image" src="https://github.com/user-attachments/assets/55b3a33d-0457-4686-8367-26e3712e8a43" />
-FULLWAVE RECTIFIER:
-<img width="937" height="447" alt="image" src="https://github.com/user-attachments/assets/f677285e-ca3c-44d9-9dba-4ff625a58b86" />
 
+
+<img width="1920" height="1200" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/b6b970fe-2633-4c08-9a69-eaa1fde03b7b" />
+
+
+FULLWAVE RECTIFIER:
+<img width="1920" height="1200" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/093b02ec-9c54-4ac2-8dc6-3148b93c0da4" />
 
 RESULT:
 
